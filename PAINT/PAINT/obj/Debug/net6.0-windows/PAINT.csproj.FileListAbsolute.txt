@@ -1,0 +1,17 @@
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.Form1.resources
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.AssemblyInfo.cs
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\PAINT\PAINT\bin\Debug\net6.0-windows\PAINT.exe
+C:\Users\angel\source\repos\PAINT\PAINT\bin\Debug\net6.0-windows\PAINT.deps.json
+C:\Users\angel\source\repos\PAINT\PAINT\bin\Debug\net6.0-windows\PAINT.runtimeconfig.json
+C:\Users\angel\source\repos\PAINT\PAINT\bin\Debug\net6.0-windows\PAINT.dll
+C:\Users\angel\source\repos\PAINT\PAINT\bin\Debug\net6.0-windows\PAINT.pdb
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.dll
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\refint\PAINT.dll
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.pdb
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\PAINT.genruntimeconfig.cache
+C:\Users\angel\source\repos\PAINT\PAINT\obj\Debug\net6.0-windows\ref\PAINT.dll
